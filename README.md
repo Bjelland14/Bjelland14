@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m a frontend development student who enjoys building things that make sense and feel good to use.
+Frontend development student with a focus on creating clear, user-friendly web experiences.
 
 - 🔭 I’m currently refining my portfolio projects to professional standards.
 - 🌱 Learning more about frontend development, with a focus on JavaScript and CSS
