@@ -1,12 +1,31 @@
 ## Hi there 👋
-Frontend development student with a focus on creating clear, user-friendly web experiences.
 
-- 🔭 I’m currently refining my portfolio projects to professional standards.
-- 🌱 Learning more about frontend development, with a focus on JavaScript and CSS
-- 👯 I’m looking to collaborate on meaningful frontend projects that focus on usability, structure, and clean design.
-- 🤔 Looking to deepen my JavaScript skills and learn how to apply best practices in real-world projects
-- 💬 Ask me about creating clean, structured interfaces and improving user experience through thoughtful frontend development.
-- 📫 How to reach me: [Email](mailto:lloydbjelland@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lloyd-bjelland-355659399/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy improving things step by step and turning complex ideas into simple, elegant solutions
+I'm a Front-End Development student at Noroff, currently completing my studies in 2026.
 
+I enjoy building responsive, accessible and user-friendly web applications, with a focus on clean code and practical solutions.
+
+### 🛠️ Technologies
+
+- TypeScript
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- REST APIs
+- Vite
+- Bootstrap
+- Node.js
+- Supabase
+- Figma
+
+### 🚀 Currently
+
+- 🎓 Completing my Front-End Development studies at Noroff
+- 💻 Building and improving frontend projects
+- 🌱 Expanding my knowledge of modern JavaScript frameworks
+- 🔎 Open to junior frontend and software development opportunities
+
+### 📫 Contact
+
+- [Portfolio](https://lloydbjellandportfolio.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/lloyd-bjelland-355659399/)
+- [Email](mailto:lloydbjelland@gmail.com)
