@@ -6,22 +6,36 @@ I enjoy building responsive, accessible and user-friendly web applications, with
 
 ### 🛠️ Technologies
 
+**Core skills:**
 - TypeScript
 - JavaScript
 - HTML & CSS
-- Git & GitHub
+- Node.js
+- Express
 - REST APIs
+- Git & GitHub
 - Vite
 - Bootstrap
-- Node.js
 - Supabase
+- MySQL
 - Figma
+
+**Testing:**
+- Vitest
+- Playwright
+
+**Currently learning:**
+- React
+- Angular
+- Next.js
+- C# / .NET
 
 ### 🚀 Currently
 
 - 🎓 Completing my Front-End Development studies at Noroff
 - 💻 Building and improving frontend projects
-- 🌱 Expanding my knowledge of modern JavaScript frameworks
+- ✅ Recently completed a full React + TypeScript e-commerce project
+- 🌱 Expanding my knowledge of Angular and Next.js
 - 🔎 Open to junior frontend and software development opportunities
 
 ### 📫 Contact
