@@ -17,7 +17,11 @@ Before code, I spent six years working with people, and I still build for them f
 
 ## 🧰 My toolbox
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,nodejs,express,supabase,mysql,cs,dotnet,vite,vitest,git,github,figma" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, Node.js, Express, Supabase, MySQL, C#, .NET, Vite, Vitest, Git, GitHub, Figma">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,nodejs,express,mysql,cs,dotnet,vite,git,github,figma" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, Node.js, Express, MySQL, C#, .NET, Vite, Git, GitHub, Figma">
+
+🌱 **Learning right now:** C# and .NET, so I can build the whole thing, from the database to the screen
+
+🤖 **AI in my workflow:** I use Claude for debugging and problem solving, and I document how I use it>
 
 🌱 **Learning right now:** C# and .NET, so I can build the whole thing, from the database to the screen
 🤖 **AI in my workflow:** I use Claude for debugging and problem solving, and I document how I use it
