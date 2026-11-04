@@ -6,7 +6,7 @@
 
 **I build web apps that are simple to use for everyone.**
 
-Frontend developer with a two-year degree from Noroff, working towards becoming a fullstack developer.
+Frontend developer finishing a two-year degree at Noroff in December 2026, working towards becoming a fullstack developer.
 Before code, I spent six years working with people, and I still build for them first.
 
 <a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-January_2027-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work from January 2027"></a>
