@@ -4,12 +4,11 @@
 
 # Hi, I'm Lloyd. 👋
 
-**I build web apps that are simple to use for everyone.**
+**I'm a developer with a background in working with people, building web apps that are simple to use for everyone.**
 
-Frontend developer finishing a two-year degree at Noroff in December 2026, working towards becoming a fullstack developer.
-Before code, I spent six years working with people, and I still build for them first.
+Finishing a two-year degree in frontend development at Noroff in December 2026, and working towards becoming a fullstack developer.
 
-<a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-January_2027-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work from January 2027"></a>
+<a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-Now!-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work now"></a>
 
 </div>
 
