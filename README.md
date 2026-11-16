@@ -6,7 +6,7 @@
 
 **I'm a developer with a background in working with people, building web apps that are simple to use for everyone.**
 
-Finishing a two-year degree in frontend development at Noroff in December 2026, and working towards becoming a fullstack developer.
+Based in Stavanger, Norway. Every project I make has its own AI log, so you can see how I've used AI.
 
 <a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-Now!-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work now"></a>
 
