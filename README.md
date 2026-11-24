@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" width="260" alt="Lloyd's logo: a hand-drawn letter B written as a code tag">
+<img src="logo.svg" width="260" alt="Lloyd's logo: a hand-drawn letter B written as a closing code tag">
 
 # Hi, I'm Lloyd. 👋
 
