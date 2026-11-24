@@ -4,20 +4,18 @@
 
 # Hi, I'm Lloyd. 👋
 
-**I build web apps that are simple to use for everyone.**
+**I'm a developer with a background in working with people, building web apps that are simple to use for everyone.**
 
-Frontend student at Noroff, working towards becoming a fullstack developer.
-Before code, I spent six years working with people, and I still build for them first.
+Based in Stavanger, Norway. 
 
-<a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-January_2027-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work from January 2027"></a>
+<a href="https://lloydbjellandportfolio.netlify.app/"><img src="https://img.shields.io/badge/Open_to_work-Now!-ffd23f?style=for-the-badge&labelColor=1b2340" alt="Open to work now"></a>
 
 </div>
 
 ---
-
 ## 🧰 My toolbox
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,nodejs,express,supabase,mysql,cs,dotnet,vite,git,github,figma&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Bootstrap, Node.js, Express, Supabase, MySQL, C#, .NET, Vite, Git, GitHub, Figma">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,nodejs,express,supabase,mysql,cs,dotnet,vite,git,github,figma&perline=9" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind, Bootstrap, Node.js, Express, Supabase, MySQL, C#, .NET, Vite, Git, GitHub, Figma">
 
 🌱 **Learning right now:** C# and .NET, so I can build the whole thing, from the database to the screen
 
